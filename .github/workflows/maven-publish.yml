@@ -17,7 +17,7 @@ jobs:
 
     steps:
       - name: hello-Step
-        run: echo "hellp step"
+        run: echo "hello step"
 
     
 #    permissions:
